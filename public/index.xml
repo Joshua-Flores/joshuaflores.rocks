@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>joshuaflores.rocks</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on </description>
+    <description>Recent content on joshuaflores.rocks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Joshua Flores</copyright>
@@ -16,6 +16,16 @@
       <guid>http://localhost:1313/projects/fairfaxwindsymphony/</guid>
       <description>Background # I&amp;rsquo;ve been playing saxophone with the Fairfax Wind Symphony since the beginning of 2022 and eventually it came up that they needed a new person to administer the site.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/fairfaxwindsymphony/featured.png" />
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 13 Jun 2022 20:55:37 +0100</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>In a nutshell, I’m a senior UX designer and frontend developer with over a decade of experience in both industry and government sectors.</description>
+      
     </item>
     
   </channel>
