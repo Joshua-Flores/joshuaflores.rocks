@@ -28,8 +28,10 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.a99c1a57c98168bc7e9a6a2d6c2cb2eac5f8257891ad3324d2276233a7ee6c36c55b35ed3c2238f3f8dc51dd501a777da0856c7a7e365b7d4b559fb81b769fa5.css"
-    integrity="sha512-qZwaV8mBaLx&#43;mmotbCyy6sX4JXiRrTMk0idiM6fubDbFWzXtPCI48/jcUd1QGnd9oIVsen42W31LVZ&#43;4G3afpQ==" />
+  
+  
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.c9b0765f21126d50de8b91295ac6a5cbf84d32ada57e5018a92f0398443a97f715fbee4b17ca4b43671e19e60e2bf1b6b7e4673919e792c5a2b43b2494b84c64.css"
+    integrity="sha512-ybB2XyESbVDei5EpWsaly/hNMq2lflAYqS8DmEQ6l/cV&#43;&#43;5LF8pLQ2ceGeYOK/G2t&#43;RnORnnksWitDsklLhMZA==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -148,7 +150,11 @@
   </div>
   
   
-  <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+  <div class="min-h-[148px]"></div>
+<div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
+  <div class="relative max-w-[64rem] ml-auto mr-auto">
+    <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
     
     
@@ -166,8 +172,6 @@
     <div class="flex flex-1 items-center justify-between">
         <nav class="flex space-x-3">
 
-            
-            <a href="/" class="text-base font-medium text-gray-500 hover:text-gray-900">joshuaflores.rocks</a>
             
 
         </nav>
@@ -420,6 +424,16 @@
 
 
 
+
+  </div>
+</div>
+<script>
+  window.addEventListener('scroll', function (e) {
+    var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    var background_blur = document.getElementById('menu-blur');
+    background_blur.style.opacity = (scroll / 300);
+  });
+</script>
 
   
   <div class="relative flex flex-col grow">

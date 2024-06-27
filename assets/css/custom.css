@@ -1,0 +1,7 @@
+body {
+  background-color: #030712 !important;
+}
+
+.dark\:from-neutral-800:is(.dark *) {
+  --tw-gradient-from: #030712 var(--tw-gradient-to-position);
+}
