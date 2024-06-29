@@ -32,8 +32,8 @@ defaultFeaturedImage = "img/background.svg" # used as default for featured image
   showMenu = true
   showCopyright = true
   showThemeAttribution = true
-  showAppearanceSwitcher = true
-  showScrollToTop = true
+  showAppearanceSwitcher = false
+  showScrollToTop = false
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
