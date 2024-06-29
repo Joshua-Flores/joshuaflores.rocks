@@ -43,4 +43,4 @@ Fun fact, this site is hosted with Netlify which has a very generous free tier. 
 
 ## More
 
-{{< github repo="Joshua-Flores/portfolio-v2" >}}
+{{< github repo="Joshua-Flores/joshuaflores.rocks" >}}
