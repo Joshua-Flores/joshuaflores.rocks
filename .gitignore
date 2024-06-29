@@ -1,6 +1,6 @@
 # Hugo build output
-/public/
-/resources/
+public/
+resources/
 
 # Temporary files and folders
 *.log
