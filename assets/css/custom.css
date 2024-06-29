@@ -17,10 +17,6 @@ body {
   font-family: "Raleway";
 }
 
-#appearance-switcher {
-  display: none;
-}
-
 .thumbnail_card {
   background-position: 0% 0%;
 }
