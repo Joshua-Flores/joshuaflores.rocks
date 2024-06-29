@@ -48,8 +48,8 @@ defaultFeaturedImage = "img/background.svg" # used as default for featured image
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showDateOnlyInArticle = false
   showDateUpdated = false
   showAuthor = true
@@ -67,13 +67,13 @@ defaultFeaturedImage = "img/background.svg" # used as default for featured image
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
-  showReadingTime = true
+  showReadingTime = false
   showTableOfContents = false
   # showRelatedContent = false
   # relatedContentLimit = 3
   showTaxonomies = true
   showAuthorsBadges = false
-  showWordCount = true
+  showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = false
 
@@ -85,7 +85,7 @@ defaultFeaturedImage = "img/background.svg" # used as default for featured image
   showBreadcrumbs = false
   showSummary = false
   showViews = false
-  showLikes = false
+  showLikes = true
   showTableOfContents = false
   showCards = false
   orderByWeight = false
@@ -103,7 +103,7 @@ defaultFeaturedImage = "img/background.svg" # used as default for featured image
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
-  showLikes = false
+  showLikes = true
   showTableOfContents = false
   cardView = false
 
