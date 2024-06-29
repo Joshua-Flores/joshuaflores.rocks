@@ -29,20 +29,25 @@ Fast forward a few years and I'm doing design work for the government, but I sta
 
 Every designer has a unique set of values that guide their work and decision-making process. These values can vary widely, reflecting different approaches and philosophies within the design field. For me, the following are the core principles that shape my design practice:
 
-- **Simplicity** -
-  I believe in creating designs that are straightforward and intuitive, ensuring users can easily navigate and engage with the product.
+### 1. Simplicity
 
-- **Collaboration** -
-  Working together with diverse teams and stakeholders enriches the design process, leading to more innovative and effective solutions.
+I believe in creating designs that are straightforward and intuitive, ensuring users can easily navigate and engage with the product.
 
-- **Feedback** -
-  I value constructive feedback as it is crucial for continuous improvement and refinement of designs.
+### 2. Collaboration
 
-- **Cleverness** -
-  Ingenuity and creative problem-solving are at the heart of my design approach, helping to overcome challenges in novel ways.
+Working together with diverse teams and stakeholders enriches the design process, leading to more innovative and effective solutions.
 
-- **Getting things done** -
-  I prioritize efficiency and execution, ensuring that ideas are not only conceptualized but also effectively brought to life.
+### 3. Feedback
+
+I value constructive feedback as it is crucial for continuous improvement and refinement of designs.
+
+### 4. Cleverness
+
+Ingenuity and creative problem-solving are at the heart of my design approach, helping to overcome challenges in novel ways.
+
+### 5. Getting things done
+
+I prioritize efficiency and actually pushing things out. Wherever possible I really try to avoid 'side quests' and focus on completing the task at hand.
 
 ## My Design Approach
 
