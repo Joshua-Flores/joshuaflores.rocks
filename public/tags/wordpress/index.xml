@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Joshua Flores</copyright>
-    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>St. Stephen&#39;s Episcopal Church</title>
+      <link>http://localhost:1313/projects/ststephensepiscopal/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/ststephensepiscopal/</guid>
+      <description>Background # I recently had the opportunity to redesign the website for my parents&amp;rsquo; church, St.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/ststephensepiscopal/featured.png" />
+    </item>
+    
     <item>
       <title>Fairfax Wind Symphony</title>
       <link>http://localhost:1313/projects/fairfaxwindsymphony/</link>
@@ -16,6 +26,16 @@
       <guid>http://localhost:1313/projects/fairfaxwindsymphony/</guid>
       <description>Background # I&amp;rsquo;ve been playing saxophone with the Fairfax Wind Symphony since the beginning of 2022 and eventually it came up that they needed a new person to administer the site.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/fairfaxwindsymphony/featured.png" />
+    </item>
+    
+    <item>
+      <title>Valley Heat Podcast</title>
+      <link>http://localhost:1313/projects/valleyheatpodcast/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/valleyheatpodcast/</guid>
+      <description>About # After getting into this podcast, I noticed it had no official website so I reached out to the creator and it turns out he was having a hard time getting the site to look the way he wanted with Wordpress.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/valleyheatpodcast/featured.png" />
     </item>
     
   </channel>

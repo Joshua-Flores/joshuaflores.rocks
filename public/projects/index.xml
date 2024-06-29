@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Joshua Flores</copyright>
-    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Portfolio</title>
+      <link>http://localhost:1313/projects/personal-portfolio/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/personal-portfolio/</guid>
+      <description>Background # Does this site count towards my personal portfolio?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/personal-portfolio/featured.png" />
+    </item>
+    
+    <item>
+      <title>St. Stephen&#39;s Episcopal Church</title>
+      <link>http://localhost:1313/projects/ststephensepiscopal/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/ststephensepiscopal/</guid>
+      <description>Background # I recently had the opportunity to redesign the website for my parents&amp;rsquo; church, St.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/ststephensepiscopal/featured.png" />
+    </item>
+    
     <item>
       <title>Fairfax Wind Symphony</title>
       <link>http://localhost:1313/projects/fairfaxwindsymphony/</link>
@@ -16,6 +36,46 @@
       <guid>http://localhost:1313/projects/fairfaxwindsymphony/</guid>
       <description>Background # I&amp;rsquo;ve been playing saxophone with the Fairfax Wind Symphony since the beginning of 2022 and eventually it came up that they needed a new person to administer the site.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/fairfaxwindsymphony/featured.png" />
+    </item>
+    
+    <item>
+      <title>Valley Heat Podcast</title>
+      <link>http://localhost:1313/projects/valleyheatpodcast/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/valleyheatpodcast/</guid>
+      <description>About # After getting into this podcast, I noticed it had no official website so I reached out to the creator and it turns out he was having a hard time getting the site to look the way he wanted with Wordpress.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/valleyheatpodcast/featured.png" />
+    </item>
+    
+    <item>
+      <title>Laterbase</title>
+      <link>http://localhost:1313/projects/laterbase/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/laterbase/</guid>
+      <description>About # There are many to-do apps out there but this one is mine!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/laterbase/featured.png" />
+    </item>
+    
+    <item>
+      <title>Tic-Tac-Toe Game</title>
+      <link>http://localhost:1313/projects/tic-tac-toe/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/tic-tac-toe/</guid>
+      <description>About # Turn based tic-tac-toe game with the ability to name players.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/tic-tac-toe/featured.png" />
+    </item>
+    
+    <item>
+      <title>Just the Darn Recipe</title>
+      <link>http://localhost:1313/projects/justthedarnrecipe/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/justthedarnrecipe/</guid>
+      <description>About # I really can&amp;rsquo;t stand recipe websites, so I created my own with an emphasis on the key user experience features that people really want when they visit a site like this.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/justthedarnrecipe/featured.png" />
     </item>
     
   </channel>

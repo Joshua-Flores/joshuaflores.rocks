@@ -1,7 +1,22 @@
 body {
-  background-color: #030712 !important;
+  background-color: black !important;
 }
 
 .dark\:from-neutral-800:is(.dark *) {
-  --tw-gradient-from: #030712 var(--tw-gradient-to-position);
+  --tw-gradient-from: black var(--tw-gradient-to-position);
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("/fonts/Raleway-VariableFont_wght.ttf") format("truetype");
+  font-weight: 100 200 300 400 500 600 700 800 900;
+  font-style: normal;
+}
+
+* {
+  font-family: "Raleway";
+}
+
+#appearance-switcher {
+  display: none;
 }

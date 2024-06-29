@@ -19,7 +19,7 @@ disableImageOptimization = false
 disableTextInHeader = true
 
 defaultBackgroundImage = "img/background.svg" # used as default for background images 
-defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+defaultFeaturedImage = "img/background.svg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
@@ -57,7 +57,7 @@ defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all 
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+  layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
