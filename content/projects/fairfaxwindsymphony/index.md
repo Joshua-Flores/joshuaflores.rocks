@@ -12,10 +12,10 @@ I've been playing saxophone with the Fairfax Wind Symphony since the beginning o
 
 I proceeded to perform a redesign using the Blocksy theme and improved the overall content experience across the site by adding upcoming concerts and performer spotlight sections. Now the site features a high quality look and feel which is integral to attracting the best musical talent from the Northern Virginia area.
 
+{{< button href="https://fairfaxwindsymphony.org" target="_blank" >}}
+Visit site
+{{< /button >}}
+
 ## Screenshot
 
 {{< figure src="screenshot.png" title="site screenshot" >}}
-
-## Links
-
-- [Visit site](https://fairfaxwindsymphony.org)

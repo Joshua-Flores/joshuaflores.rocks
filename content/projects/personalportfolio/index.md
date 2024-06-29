@@ -4,7 +4,6 @@ date: 2023-04-01
 draft: false
 slug: "personal-portfolio"
 tags: ["Hugo", "Tailwind", "Firebase"]
-githubLink: "https://github.com/Joshua-Flores/hugo-portfolio.git"
 ---
 
 ## Background
@@ -42,6 +41,6 @@ Here's a short list of improvements:
 
 Fun fact, this site is hosted with Netlify which has a very generous free tier. All I pay for is the domain name "joshuaflores.rocks". Total cost per year for this site is around $10.
 
-## Links
+## More
 
-- [View source on Github](https://github.com/Joshua-Flores/hugo-portfolio.git)
+{{< github repo="Joshua-Flores/portfolio-v2" >}}

@@ -4,7 +4,6 @@ date: 2023-02-01
 draft: false
 slug: "ststephensepiscopal"
 tags: ["Wordpress"]
-externalLink: "https://ststephensforest.org"
 ---
 
 ## Background
@@ -26,6 +25,10 @@ I started off by creating a development site using DreamHost since they offered 
 
 At the end of the process we had a completely redesigned and deployed site with just a few weekends worth of work that exceeded their expectations. From a user experience perspective one of the most endearing things was to see the priest go in there and add events, photos, and other content without assistance from myself.
 
+{{< button href="https://ststephensforest.org" target="_blank" >}}
+Visit site
+{{< /button >}}
+
 ## Screenshots
 
 Check out the screenshots below to see the before and after.
@@ -35,7 +38,3 @@ Check out the screenshots below to see the before and after.
 
 **After**
 {{< figure src="ststephens-after.png" title="After" >}}
-
-## Links
-
-- [View site](https://ststephensforest.org)
