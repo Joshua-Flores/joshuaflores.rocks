@@ -17,6 +17,7 @@ body {
   font-family: "Raleway";
 }
 
-.thumbnail_card {
+.thumbnail_card,
+.thumbnail {
   background-position: 0% 0%;
 }
