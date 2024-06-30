@@ -15,7 +15,7 @@ enableCodeCopy = false
 # mainSections = ["section1", "section2"]
 # robots = ""
 
-disableImageOptimization = true
+disableImageOptimization = false
 disableTextInHeader = true
 
 defaultBackgroundImage = "img/background.svg" # used as default for background images 
@@ -68,14 +68,14 @@ defaultFeaturedImage = "img/background.svg" # used as default for featured image
   showPagination = true
   invertPagination = false
   showReadingTime = false
-  showTableOfContents = false
-  # showRelatedContent = false
+  showTableOfContents = true
+  showRelatedContent = false
   # relatedContentLimit = 3
   showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
-  showZenMode = false
+  showZenMode = true
 
 [list]
   showHero = true
