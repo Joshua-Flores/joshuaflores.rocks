@@ -1,7 +1,7 @@
 # netlify.toml
 
 [build]
-  command = "git submodule update --init --recursive && hugo --gc --minify"
+  command = "git submodule update --init --recursive && hugo --gc --minify -b $URL"
   publish = "public"
 
 [build.environment]
@@ -12,6 +12,7 @@
 [context.production.environment]
   HUGO_VERSION = "0.104.1"
   HUGO_ENV = "production"
+  URL = "https://joshuaflores-rocks.netlify.app"
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.104.1"
