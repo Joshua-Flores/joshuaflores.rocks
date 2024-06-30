@@ -12,7 +12,7 @@
 [context.production.environment]
   HUGO_VERSION = "0.104.1"
   HUGO_ENV = "production"
-  URL = "https://joshuaflores-rocks.netlify.app"
+  URL = "https://relaxed-hotteok-013e84.netlify.app"
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.104.1"
