@@ -130,7 +130,7 @@
   <script>
 
     const firebaseConfig = {
-      apiKey: "{{ getenv "FIREBASE_API_KEY" }}",
+      apiKey: {{ $.Site.Params.firebase.apiKey }},
       authDomain: {{ $.Site.Params.firebase.apiKey }},
       projectId: {{ $.Site.Params.firebase.projectId }},
       storageBucket: {{ $.Site.Params.firebase.storageBucket }},
