@@ -119,7 +119,7 @@ defaultFeaturedImage = "img/background.svg" # used as default for featured image
   cardViewScreenWidth = false
 
 [firebase]
-  apiKey = "AIzaSyBwhOUl351nKUeElGelAxl92PvnLqNuyL0"
+  apiKey = { FIREBASE_API_KEY = "${FIREBASE_API_KEY}" }
   authDomain = "hugo-portfolio-dc921.firebaseapp.com"
   projectId = "hugo-portfolio-dc921"
   storageBucket = "hugo-portfolio-dc921.appspot.com"
